@@ -1,0 +1,31 @@
+build_price_tag_sl_node_application_stm32f10x/mini_cpp.o: \
+ sources/platform/stm32f10x/mini_cpp.cpp \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/c++/5.4.1/cstdlib \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/c++/5.4.1/arm-none-eabi/armv7-m/bits/c++config.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/c++/5.4.1/arm-none-eabi/armv7-m/bits/os_defines.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/c++/5.4.1/arm-none-eabi/armv7-m/bits/cpu_defines.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/stdlib.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/machine/ieeefp.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/_ansi.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/newlib.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/_newlib_version.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/config.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/features.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stddef.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/reent.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/_ansi.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/_types.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/machine/_types.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/machine/_default_types.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/lock.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/cdefs.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/machine/stdlib.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/types.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/_stdint.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/machine/types.h \
+ sources/platform/stm32f10x/../../sys/sys_dbg.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stdint.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/stdint.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/_intsup.h \
+ sources/platform/stm32f10x/../../sys/../common/xprintf.h \
+ /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stdarg.h

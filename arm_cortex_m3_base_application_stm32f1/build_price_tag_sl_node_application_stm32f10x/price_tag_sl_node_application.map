@@ -1,0 +1,2670 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-malloc.o)
+                              build_price_tag_sl_node_application_stm32f10x/mini_cpp.o (malloc)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+                              /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-malloc.o) (_malloc_r)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+                              build_price_tag_sl_node_application_stm32f10x/Stream.o (memset)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mlock.o)
+                              /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o) (__malloc_lock)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sbrkr.o)
+                              /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o) (_sbrk_r)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen-stub.o)
+                              build_price_tag_sl_node_application_stm32f10x/Print.o (strlen)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-freer.o)
+                              /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-malloc.o) (_free_r)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+                              /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-malloc.o) (_impure_ptr)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reent.o)
+                              /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sbrkr.o) (errno)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-w_sqrt.o)
+                              build_price_tag_sl_node_application_stm32f10x/EmonLib.o (sqrt)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-e_sqrt.o)
+                              /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-w_sqrt.o) (__ieee754_sqrt)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-s_lib_ver.o)
+                              /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-w_sqrt.o) (__fdlib_version)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-s_matherr.o)
+                              /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-w_sqrt.o) (matherr)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_addsubdf3.o)
+                              build_price_tag_sl_node_application_stm32f10x/EmonLib.o (__aeabi_dsub)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_muldivdf3.o)
+                              build_price_tag_sl_node_application_stm32f10x/EmonLib.o (__aeabi_dmul)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_cmpdf2.o)
+                              build_price_tag_sl_node_application_stm32f10x/Print.o (__aeabi_dcmplt)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_unorddf2.o)
+                              build_price_tag_sl_node_application_stm32f10x/Print.o (__aeabi_dcmpun)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_fixdfsi.o)
+                              build_price_tag_sl_node_application_stm32f10x/Print.o (__aeabi_d2iz)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_fixunsdfsi.o)
+                              build_price_tag_sl_node_application_stm32f10x/Print.o (__aeabi_d2uiz)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_truncdfsf2.o)
+                              build_price_tag_sl_node_application_stm32f10x/Stream.o (__aeabi_d2f)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_addsubsf3.o)
+                              build_price_tag_sl_node_application_stm32f10x/Stream.o (__aeabi_i2f)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_muldivsf3.o)
+                              build_price_tag_sl_node_application_stm32f10x/Stream.o (__aeabi_fmul)
+/home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libg.a(lib_a-errno.o)
+                              /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-w_sqrt.o) (__errno)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reent.o)
+system_info         0x20              build_price_tag_sl_node_application_stm32f10x/system.o
+xfunc_out           0x4               build_price_tag_sl_node_application_stm32f10x/xprintf.o
+flag_timeout        0x1               build_price_tag_sl_node_application_stm32f10x/system.o
+GPIO_InitStructure  0x4               build_price_tag_sl_node_application_stm32f10x/system.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/utils.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/utils.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/utils.o
+ .text.str_len  0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/utils.o
+ .text.itoa     0x00000000       0x6e build_price_tag_sl_node_application_stm32f10x/utils.o
+ .text.mem_set  0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/utils.o
+ .text.mem_cpy  0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/utils.o
+ .text.mem_cmp  0x00000000       0x32 build_price_tag_sl_node_application_stm32f10x/utils.o
+ .text.mem_read
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/utils.o
+ .text.mem_write
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/utils.o
+ .text.str_cmp  0x00000000       0x28 build_price_tag_sl_node_application_stm32f10x/utils.o
+ .text.str_cpy  0x00000000       0x26 build_price_tag_sl_node_application_stm32f10x/utils.o
+ .debug_info    0x00000000      0x465 build_price_tag_sl_node_application_stm32f10x/utils.o
+ .debug_abbrev  0x00000000      0x11b build_price_tag_sl_node_application_stm32f10x/utils.o
+ .debug_loc     0x00000000      0x717 build_price_tag_sl_node_application_stm32f10x/utils.o
+ .debug_aranges
+                0x00000000       0x60 build_price_tag_sl_node_application_stm32f10x/utils.o
+ .debug_ranges  0x00000000       0x68 build_price_tag_sl_node_application_stm32f10x/utils.o
+ .debug_line    0x00000000      0x264 build_price_tag_sl_node_application_stm32f10x/utils.o
+ .debug_str     0x00000000      0x276 build_price_tag_sl_node_application_stm32f10x/utils.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/utils.o
+ .debug_frame   0x00000000       0xc8 build_price_tag_sl_node_application_stm32f10x/utils.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/utils.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/xprintf.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/xprintf.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/xprintf.o
+ .text.sxputc   0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/xprintf.o
+ .text.xsprintf
+                0x00000000       0x24 build_price_tag_sl_node_application_stm32f10x/xprintf.o
+ .text.set_dymc_output_type
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/xprintf.o
+ .text.xdymcprintf
+                0x00000000       0x2c build_price_tag_sl_node_application_stm32f10x/xprintf.o
+ .bss.dymc_print_type
+                0x00000000        0x1 build_price_tag_sl_node_application_stm32f10x/xprintf.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/cmd_line.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/cmd_line.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/cmd_line.o
+ .text.cmd_line_parser
+                0x00000000       0x7c build_price_tag_sl_node_application_stm32f10x/cmd_line.o
+ .debug_info    0x00000000      0x1d9 build_price_tag_sl_node_application_stm32f10x/cmd_line.o
+ .debug_abbrev  0x00000000      0x112 build_price_tag_sl_node_application_stm32f10x/cmd_line.o
+ .debug_loc     0x00000000       0xe7 build_price_tag_sl_node_application_stm32f10x/cmd_line.o
+ .debug_aranges
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/cmd_line.o
+ .debug_ranges  0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/cmd_line.o
+ .debug_line    0x00000000      0x168 build_price_tag_sl_node_application_stm32f10x/cmd_line.o
+ .debug_str     0x00000000      0x218 build_price_tag_sl_node_application_stm32f10x/cmd_line.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/cmd_line.o
+ .debug_frame   0x00000000       0x34 build_price_tag_sl_node_application_stm32f10x/cmd_line.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/cmd_line.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/log_queue.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/log_queue.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/log_queue.o
+ .text.log_queue_init
+                0x00000000       0x2e build_price_tag_sl_node_application_stm32f10x/log_queue.o
+ .text.log_queue_len
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/log_queue.o
+ .text.log_queue_put
+                0x00000000       0x58 build_price_tag_sl_node_application_stm32f10x/log_queue.o
+ .text.log_queue_get
+                0x00000000       0x30 build_price_tag_sl_node_application_stm32f10x/log_queue.o
+ .debug_info    0x00000000      0x263 build_price_tag_sl_node_application_stm32f10x/log_queue.o
+ .debug_abbrev  0x00000000       0xed build_price_tag_sl_node_application_stm32f10x/log_queue.o
+ .debug_loc     0x00000000      0x1c8 build_price_tag_sl_node_application_stm32f10x/log_queue.o
+ .debug_aranges
+                0x00000000       0x38 build_price_tag_sl_node_application_stm32f10x/log_queue.o
+ .debug_ranges  0x00000000       0x28 build_price_tag_sl_node_application_stm32f10x/log_queue.o
+ .debug_line    0x00000000      0x1b3 build_price_tag_sl_node_application_stm32f10x/log_queue.o
+ .debug_str     0x00000000      0x20d build_price_tag_sl_node_application_stm32f10x/log_queue.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/log_queue.o
+ .debug_frame   0x00000000       0x70 build_price_tag_sl_node_application_stm32f10x/log_queue.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/log_queue.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/fifo.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/fifo.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/fifo.o
+ .text.fifo_init
+                0x00000000       0x34 build_price_tag_sl_node_application_stm32f10x/fifo.o
+ .text.fifo_availble
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/fifo.o
+ .text.fifo_is_empty
+                0x00000000        0xa build_price_tag_sl_node_application_stm32f10x/fifo.o
+ .text.fifo_put
+                0x00000000       0x58 build_price_tag_sl_node_application_stm32f10x/fifo.o
+ .text.fifo_get
+                0x00000000       0x58 build_price_tag_sl_node_application_stm32f10x/fifo.o
+ .rodata.str1.1
+                0x00000000       0x2f build_price_tag_sl_node_application_stm32f10x/fifo.o
+ .debug_info    0x00000000      0x354 build_price_tag_sl_node_application_stm32f10x/fifo.o
+ .debug_abbrev  0x00000000      0x158 build_price_tag_sl_node_application_stm32f10x/fifo.o
+ .debug_loc     0x00000000      0x208 build_price_tag_sl_node_application_stm32f10x/fifo.o
+ .debug_aranges
+                0x00000000       0x40 build_price_tag_sl_node_application_stm32f10x/fifo.o
+ .debug_ranges  0x00000000       0x30 build_price_tag_sl_node_application_stm32f10x/fifo.o
+ .debug_line    0x00000000      0x23e build_price_tag_sl_node_application_stm32f10x/fifo.o
+ .debug_str     0x00000000      0x256 build_price_tag_sl_node_application_stm32f10x/fifo.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/fifo.o
+ .debug_frame   0x00000000       0x88 build_price_tag_sl_node_application_stm32f10x/fifo.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/fifo.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+ .text.ring_buffer_init
+                0x00000000       0x34 build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+ .text.ring_buffer_availble
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+ .text.ring_buffer_is_empty
+                0x00000000        0xa build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+ .text.ring_buffer_is_full
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+ .text.ring_buffer_put
+                0x00000000       0x48 build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+ .text.ring_buffer_get
+                0x00000000       0x3c build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+ .rodata.str1.1
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+ .debug_info    0x00000000      0x328 build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+ .debug_abbrev  0x00000000      0x14b build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+ .debug_loc     0x00000000      0x235 build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+ .debug_aranges
+                0x00000000       0x48 build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+ .debug_ranges  0x00000000       0x38 build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+ .debug_line    0x00000000      0x25c build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+ .debug_str     0x00000000      0x2a2 build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+ .debug_frame   0x00000000       0x98 build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/led.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/led.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/led.o
+ .text.led_toggle
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/led.o
+ .text.led_blink_set
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/led.o
+ .text.led_blink_reset
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/led.o
+ .text.led_blink_polling
+                0x00000000       0x30 build_price_tag_sl_node_application_stm32f10x/led.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/button.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/button.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/button.o
+ .text.button_init
+                0x00000000       0x32 build_price_tag_sl_node_application_stm32f10x/button.o
+ .text.button_enable
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/button.o
+ .text.button_disable
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/button.o
+ .text.button_timer_polling
+                0x00000000       0x8c build_price_tag_sl_node_application_stm32f10x/button.o
+ .debug_info    0x00000000      0x27a build_price_tag_sl_node_application_stm32f10x/button.o
+ .debug_abbrev  0x00000000      0x14a build_price_tag_sl_node_application_stm32f10x/button.o
+ .debug_loc     0x00000000      0x143 build_price_tag_sl_node_application_stm32f10x/button.o
+ .debug_aranges
+                0x00000000       0x38 build_price_tag_sl_node_application_stm32f10x/button.o
+ .debug_ranges  0x00000000       0x28 build_price_tag_sl_node_application_stm32f10x/button.o
+ .debug_line    0x00000000      0x1a1 build_price_tag_sl_node_application_stm32f10x/button.o
+ .debug_str     0x00000000      0x262 build_price_tag_sl_node_application_stm32f10x/button.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/button.o
+ .debug_frame   0x00000000       0x68 build_price_tag_sl_node_application_stm32f10x/button.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/button.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/sensor_digital.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/sensor_digital.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/sensor_digital.o
+ .text.sensor_digital_init
+                0x00000000       0x36 build_price_tag_sl_node_application_stm32f10x/sensor_digital.o
+ .text.sensor_digital_enable
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/sensor_digital.o
+ .text.sensor_digital_disable
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/sensor_digital.o
+ .text.sensor_digital_timer_polling
+                0x00000000       0x74 build_price_tag_sl_node_application_stm32f10x/sensor_digital.o
+ .debug_info    0x00000000      0x295 build_price_tag_sl_node_application_stm32f10x/sensor_digital.o
+ .debug_abbrev  0x00000000      0x14a build_price_tag_sl_node_application_stm32f10x/sensor_digital.o
+ .debug_loc     0x00000000      0x163 build_price_tag_sl_node_application_stm32f10x/sensor_digital.o
+ .debug_aranges
+                0x00000000       0x38 build_price_tag_sl_node_application_stm32f10x/sensor_digital.o
+ .debug_ranges  0x00000000       0x28 build_price_tag_sl_node_application_stm32f10x/sensor_digital.o
+ .debug_line    0x00000000      0x1ae build_price_tag_sl_node_application_stm32f10x/sensor_digital.o
+ .debug_str     0x00000000      0x2d8 build_price_tag_sl_node_application_stm32f10x/sensor_digital.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/sensor_digital.o
+ .debug_frame   0x00000000       0x68 build_price_tag_sl_node_application_stm32f10x/sensor_digital.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/sensor_digital.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/flash.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/flash.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/flash.o
+ .text.flash_wait_to_idle
+                0x00000000       0x3c build_price_tag_sl_node_application_stm32f10x/flash.o
+ .text.flash_set_write_enable.constprop.0
+                0x00000000       0x1a build_price_tag_sl_node_application_stm32f10x/flash.o
+ .text.flash_read
+                0x00000000       0x4a build_price_tag_sl_node_application_stm32f10x/flash.o
+ .text.flash_write
+                0x00000000       0x62 build_price_tag_sl_node_application_stm32f10x/flash.o
+ .text.flash_erase_sector
+                0x00000000       0x48 build_price_tag_sl_node_application_stm32f10x/flash.o
+ .text.flash_erase_block_32k
+                0x00000000       0x48 build_price_tag_sl_node_application_stm32f10x/flash.o
+ .text.flash_erase_block_64k
+                0x00000000       0x46 build_price_tag_sl_node_application_stm32f10x/flash.o
+ .text.flash_erase_full
+                0x00000000       0x26 build_price_tag_sl_node_application_stm32f10x/flash.o
+ .debug_info    0x00000000      0x681 build_price_tag_sl_node_application_stm32f10x/flash.o
+ .debug_abbrev  0x00000000      0x154 build_price_tag_sl_node_application_stm32f10x/flash.o
+ .debug_loc     0x00000000      0x2a4 build_price_tag_sl_node_application_stm32f10x/flash.o
+ .debug_aranges
+                0x00000000       0x58 build_price_tag_sl_node_application_stm32f10x/flash.o
+ .debug_ranges  0x00000000       0x48 build_price_tag_sl_node_application_stm32f10x/flash.o
+ .debug_line    0x00000000      0x27e build_price_tag_sl_node_application_stm32f10x/flash.o
+ .debug_str     0x00000000      0x2ba build_price_tag_sl_node_application_stm32f10x/flash.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/flash.o
+ .debug_frame   0x00000000      0x108 build_price_tag_sl_node_application_stm32f10x/flash.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/flash.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/sys_dbg.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/sys_dbg.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/sys_dbg.o
+ .text.sys_dbg_fatal
+                0x00000000       0x4c build_price_tag_sl_node_application_stm32f10x/sys_dbg.o
+ .rodata.str1.1
+                0x00000000        0x7 build_price_tag_sl_node_application_stm32f10x/sys_dbg.o
+ .debug_info    0x00000000      0x20b build_price_tag_sl_node_application_stm32f10x/sys_dbg.o
+ .debug_abbrev  0x00000000       0xda build_price_tag_sl_node_application_stm32f10x/sys_dbg.o
+ .debug_loc     0x00000000       0x6c build_price_tag_sl_node_application_stm32f10x/sys_dbg.o
+ .debug_aranges
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/sys_dbg.o
+ .debug_ranges  0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/sys_dbg.o
+ .debug_line    0x00000000      0x1d8 build_price_tag_sl_node_application_stm32f10x/sys_dbg.o
+ .debug_str     0x00000000      0x266 build_price_tag_sl_node_application_stm32f10x/sys_dbg.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/sys_dbg.o
+ .debug_frame   0x00000000       0x28 build_price_tag_sl_node_application_stm32f10x/sys_dbg.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/sys_dbg.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/system_stm32f10x.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/system_stm32f10x.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/system_stm32f10x.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .text.GPIO_DeInit
+                0x00000000       0xb8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .text.GPIO_AFIODeInit
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .text.GPIO_StructInit
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .text.GPIO_ReadInputData
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .text.GPIO_WriteBit
+                0x00000000        0xa build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .text.GPIO_Write
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .text.GPIO_EventOutputConfig
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .text.GPIO_EventOutputCmd
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .text.GPIO_EXTILineConfig
+                0x00000000       0x2a build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .text.GPIO_ETH_MediaInterfaceConfig
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_DeInit
+                0x00000000       0x40 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_HSEConfig
+                0x00000000       0x38 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_PLLConfig
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_PLLCmd
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_ITConfig
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_USBCLKConfig
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_ADCCLKConfig
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_LSEConfig
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_LSICmd
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_AHBPeriphClockCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_APB1PeriphClockCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_BackupResetCmd
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_MCOConfig
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x30 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_ClearFlag
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_GetITStatus
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_DeInit
+                0x00000000       0x9c build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_StructInit
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_ClockInit
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_ClockStructInit
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_DMACmd
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_SetAddress
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_WakeUpConfig
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_ReceiverWakeUpCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_LINCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_ReceiveData
+                0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_SendBreak
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_SetGuardTime
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_SetPrescaler
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_SmartCardCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_SmartCardNACKCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_HalfDuplexCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_OverSampling8Cmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_OneBitMethodCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_IrDAConfig
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_IrDACmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text.USART_ClearFlag
+                0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.SPI_I2S_DeInit
+                0x00000000       0x64 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.SPI_Init
+                0x00000000       0x3e build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.I2S_Init
+                0x00000000       0xa2 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.SPI_StructInit
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.I2S_StructInit
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.SPI_Cmd  0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.I2S_Cmd  0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.SPI_I2S_ITConfig
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.SPI_I2S_DMACmd
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.SPI_I2S_SendData
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.SPI_I2S_ReceiveData
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.SPI_NSSInternalSoftwareConfig
+                0x00000000       0x1e build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.SPI_SSOutputCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.SPI_DataSizeConfig
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.SPI_TransmitCRC
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.SPI_CalculateCRC
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.SPI_GetCRC
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.SPI_GetCRCPolynomial
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.SPI_BiDirectionalLineConfig
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.SPI_I2S_GetFlagStatus
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.SPI_I2S_ClearFlag
+                0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.SPI_I2S_GetITStatus
+                0x00000000       0x26 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text.SPI_I2S_ClearITPendingBit
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .debug_info    0x00000000      0x9a6 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .debug_abbrev  0x00000000      0x1e8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .debug_loc     0x00000000      0x5fa build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .debug_aranges
+                0x00000000       0xd0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .debug_ranges  0x00000000       0xc0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .debug_line    0x00000000      0x48c build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .debug_str     0x00000000      0x6aa build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .debug_frame   0x00000000      0x1bc build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/misc.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/misc.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/misc.o
+ .text.NVIC_SetVectorTable
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/misc.o
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/misc.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/misc.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+ .text.EXTI_DeInit
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+ .text.EXTI_Init
+                0x00000000       0x74 build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+ .text.EXTI_StructInit
+                0x00000000        0xe build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+ .text.EXTI_GenerateSWInterrupt
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+ .text.EXTI_GetFlagStatus
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+ .text.EXTI_ClearFlag
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TI1_Config
+                0x00000000       0x68 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TI2_Config
+                0x00000000       0x78 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_DeInit
+                0x00000000      0x1c8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_TimeBaseInit
+                0x00000000       0x94 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_OC1Init
+                0x00000000       0x88 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_OC2Init
+                0x00000000       0x88 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_OC3Init
+                0x00000000       0x84 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_OC4Init
+                0x00000000       0x68 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_BDTRConfig
+                0x00000000       0x22 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_TimeBaseStructInit
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_OCStructInit
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_ICStructInit
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_BDTRStructInit
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_Cmd  0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_CtrlPWMOutputs
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_GenerateEvent
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_DMAConfig
+                0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_DMACmd
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_ITConfig
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_InternalClockConfig
+                0x00000000        0xe build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_ITRxExternalClockConfig
+                0x00000000       0x1a build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_TIxExternalClockConfig
+                0x00000000       0x34 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_ETRConfig
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_ETRClockMode1Config
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_ETRClockMode2Config
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_PrescalerConfig
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_CounterModeConfig
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_SelectInputTrigger
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_EncoderInterfaceConfig
+                0x00000000       0x3c build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_ForcedOC1Config
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_ForcedOC2Config
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_ForcedOC3Config
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_ForcedOC4Config
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_ARRPreloadConfig
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_SelectCOM
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_SelectCCDMA
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_CCPreloadControl
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_OC1PreloadConfig
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_OC2PreloadConfig
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_OC3PreloadConfig
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_OC4PreloadConfig
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_OC1FastConfig
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_OC2FastConfig
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_OC3FastConfig
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_OC4FastConfig
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_ClearOC1Ref
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_ClearOC2Ref
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_ClearOC3Ref
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_ClearOC4Ref
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_OC1PolarityConfig
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_OC1NPolarityConfig
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_OC2PolarityConfig
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_OC2NPolarityConfig
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_OC3PolarityConfig
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_OC3NPolarityConfig
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_OC4PolarityConfig
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_CCxCmd
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_CCxNCmd
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_SelectOCxM
+                0x00000000       0x42 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_UpdateDisableConfig
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_UpdateRequestConfig
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_SelectHallSensor
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_SelectOnePulseMode
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_SelectOutputTrigger
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_SelectSlaveMode
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_SelectMasterSlaveMode
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_SetCounter
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_SetAutoreload
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_SetCompare1
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_SetCompare2
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_SetCompare3
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_SetCompare4
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_SetIC1Prescaler
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_SetIC2Prescaler
+                0x00000000       0x1a build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_PWMIConfig
+                0x00000000       0x60 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_SetIC3Prescaler
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_SetIC4Prescaler
+                0x00000000       0x1a build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_ICInit
+                0x00000000      0x130 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_SetClockDivision
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_GetCapture1
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_GetCapture2
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_GetCapture3
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_GetCapture4
+                0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_GetCounter
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_GetPrescaler
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_GetFlagStatus
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_ClearFlag
+                0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_GetITStatus
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text.TIM_ClearITPendingBit
+                0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .debug_info    0x00000000     0x2010 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .debug_abbrev  0x00000000      0x2d2 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .debug_loc     0x00000000     0x1c08 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .debug_aranges
+                0x00000000      0x2d0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .debug_ranges  0x00000000      0x2f8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .debug_line    0x00000000      0xb63 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .debug_str     0x00000000      0xe5d build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .debug_frame   0x00000000      0x6b4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_DeInit
+                0x00000000       0x60 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_Init
+                0x00000000       0x48 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_StructInit
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_Cmd  0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_DMACmd
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_ITConfig
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_ResetCalibration
+                0x00000000        0xa build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_GetResetCalibrationStatus
+                0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_StartCalibration
+                0x00000000        0xa build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_GetCalibrationStatus
+                0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_SoftwareStartConvCmd
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_GetSoftwareStartConvStatus
+                0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_DiscModeChannelCountConfig
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_DiscModeCmd
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_RegularChannelConfig
+                0x00000000       0x8e build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_ExternalTrigConvCmd
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_GetConversionValue
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_GetDualModeConversionValue
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_AutoInjectedConvCmd
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_InjectedDiscModeCmd
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_ExternalTrigInjectedConvCmd
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_SoftwareStartInjectedConvCmd
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_InjectedChannelConfig
+                0x00000000       0x58 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_InjectedSequencerLengthConfig
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_SetInjectedOffset
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_GetInjectedConversionValue
+                0x00000000       0x1a build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogCmd
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_TempSensorVrefintCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_GetFlagStatus
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_ClearFlag
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_GetITStatus
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text.ADC_ClearITPendingBit
+                0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .debug_info    0x00000000      0xbea build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .debug_abbrev  0x00000000      0x1d8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .debug_loc     0x00000000      0xa9f build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .debug_aranges
+                0x00000000      0x138 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .debug_ranges  0x00000000      0x128 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .debug_line    0x00000000      0x56e build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .debug_str     0x00000000      0x77f build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .debug_frame   0x00000000      0x290 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .text.RTC_ITConfig
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .text.RTC_EnterConfigMode
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .text.RTC_ExitConfigMode
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .text.RTC_GetCounter
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .text.RTC_SetCounter
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .text.RTC_SetPrescaler
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .text.RTC_SetAlarm
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .text.RTC_GetDivider
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .text.RTC_WaitForLastTask
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .text.RTC_WaitForSynchro
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .text.RTC_GetFlagStatus
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .text.RTC_GetITStatus
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .text.RTC_ClearITPendingBit
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .text.RTC_ClearFlag
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .debug_info    0x00000000      0x45a build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .debug_abbrev  0x00000000      0x19f build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .debug_loc     0x00000000      0x1fe build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .debug_aranges
+                0x00000000       0x80 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .debug_ranges  0x00000000       0x70 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .debug_line    0x00000000      0x304 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .debug_str     0x00000000      0x401 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .debug_frame   0x00000000      0x114 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .text.PWR_DeInit
+                0x00000000       0x1a build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .text.PWR_BackupAccessCmd
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .text.PWR_PVDCmd
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .text.PWR_PVDLevelConfig
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .text.PWR_WakeUpPinCmd
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .text.PWR_EnterSTOPMode
+                0x00000000       0x34 build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .text.PWR_EnterSTANDBYMode
+                0x00000000       0x28 build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .text.PWR_GetFlagStatus
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .text.PWR_ClearFlag
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .debug_info    0x00000000      0x4e7 build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .debug_abbrev  0x00000000      0x1b2 build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .debug_loc     0x00000000      0x111 build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .debug_aranges
+                0x00000000       0x60 build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .debug_ranges  0x00000000       0x50 build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .debug_line    0x00000000      0x31f build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .debug_str     0x00000000      0x3a6 build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .debug_frame   0x00000000       0xac build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_SetLatency
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_HalfCycleAccessCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_PrefetchBufferCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_UnlockBank1
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_Unlock
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_LockBank1
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_Lock
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_GetUserOptionByte
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_GetWriteProtectionOptionByte
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_GetReadOutProtectionStatus
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_GetPrefetchBufferStatus
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_ITConfig
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_GetFlagStatus
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_ClearFlag
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_GetStatus
+                0x00000000       0x28 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_GetBank1Status
+                0x00000000       0x28 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_WaitForLastBank1Operation
+                0x00000000       0x22 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_EraseAllBank1Pages
+                0x00000000       0x38 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_EraseAllPages
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_UserOptionByteConfig
+                0x00000000       0x5c build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_ReadOutProtection
+                0x00000000       0x8c build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_EnableWriteProtection
+                0x00000000       0xa8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_ProgramOptionByteData
+                0x00000000       0x4c build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_ProgramHalfWord
+                0x00000000       0x38 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_ProgramWord
+                0x00000000       0x54 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_EraseOptionBytes
+                0x00000000       0x7c build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_ErasePage
+                0x00000000       0x3c build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text.FLASH_WaitForLastOperation
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .debug_info    0x00000000      0x96d build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .debug_abbrev  0x00000000      0x200 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .debug_loc     0x00000000      0x717 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .debug_aranges
+                0x00000000       0xd8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .debug_ranges  0x00000000       0xc8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .debug_line    0x00000000      0x4fe build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .debug_str     0x00000000      0x60e build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .debug_frame   0x00000000      0x244 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_iwdg.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_iwdg.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_iwdg.o
+ .text.IWDG_WriteAccessCmd
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_iwdg.o
+ .text.IWDG_SetPrescaler
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_iwdg.o
+ .text.IWDG_SetReload
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_iwdg.o
+ .text.IWDG_ReloadCounter
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_iwdg.o
+ .text.IWDG_Enable
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_iwdg.o
+ .text.IWDG_GetFlagStatus
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32f10x_iwdg.o
+ .debug_info    0x00000000      0x211 build_price_tag_sl_node_application_stm32f10x/stm32f10x_iwdg.o
+ .debug_abbrev  0x00000000      0x114 build_price_tag_sl_node_application_stm32f10x/stm32f10x_iwdg.o
+ .debug_loc     0x00000000       0x62 build_price_tag_sl_node_application_stm32f10x/stm32f10x_iwdg.o
+ .debug_aranges
+                0x00000000       0x48 build_price_tag_sl_node_application_stm32f10x/stm32f10x_iwdg.o
+ .debug_ranges  0x00000000       0x38 build_price_tag_sl_node_application_stm32f10x/stm32f10x_iwdg.o
+ .debug_line    0x00000000      0x25a build_price_tag_sl_node_application_stm32f10x/stm32f10x_iwdg.o
+ .debug_str     0x00000000      0x2c9 build_price_tag_sl_node_application_stm32f10x/stm32f10x_iwdg.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/stm32f10x_iwdg.o
+ .debug_frame   0x00000000       0x70 build_price_tag_sl_node_application_stm32f10x/stm32f10x_iwdg.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/stm32f10x_iwdg.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .text.DAC_DeInit
+                0x00000000       0x1a build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .text.DAC_Init
+                0x00000000       0x2c build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .text.DAC_StructInit
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .text.DAC_Cmd  0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .text.DAC_DMACmd
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .text.DAC_SoftwareTriggerCmd
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .text.DAC_DualSoftwareTriggerCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .text.DAC_WaveGenerationCmd
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .text.DAC_SetChannel1Data
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .text.DAC_SetChannel2Data
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .text.DAC_SetDualChannelData
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .text.DAC_GetDataOutputValue
+                0x00000000       0x24 build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .debug_info    0x00000000      0x4fe build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .debug_abbrev  0x00000000      0x1c4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .debug_loc     0x00000000      0x276 build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .debug_aranges
+                0x00000000       0x78 build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .debug_ranges  0x00000000       0x68 build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .debug_line    0x00000000      0x35c build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .debug_str     0x00000000      0x433 build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .debug_frame   0x00000000      0x100 build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_DeInit
+                0x00000000       0x34 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_Init
+                0x00000000       0xd4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_StructInit
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_Cmd  0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_DMACmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_DMALastTransferCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_GenerateSTART
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_GenerateSTOP
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_AcknowledgeConfig
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_OwnAddress2Config
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_DualAddressCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_GeneralCallCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_ITConfig
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_SendData
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_ReceiveData
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_Send7bitAddress
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_ReadRegister
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_SoftwareResetCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_SMBusAlertConfig
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_TransmitPEC
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_PECPositionConfig
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_NACKPositionConfig
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_CalculatePEC
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_GetPEC
+                0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_ARPCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_StretchClockCmd
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_FastModeDutyCycleConfig
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_CheckEvent
+                0x00000000       0x1a build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_GetLastEvent
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_GetFlagStatus
+                0x00000000       0x34 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_ClearFlag
+                0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_GetITStatus
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text.I2C_ClearITPendingBit
+                0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .debug_info    0x00000000      0xb08 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .debug_abbrev  0x00000000      0x232 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .debug_loc     0x00000000      0x601 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .debug_aranges
+                0x00000000      0x110 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .debug_ranges  0x00000000      0x100 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .debug_line    0x00000000      0x535 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .debug_str     0x00000000      0x6c6 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .debug_frame   0x00000000      0x250 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/stm32.o
+ .text.enable_interrupts
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/stm32.o
+ .text.disable_interrupts
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/stm32.o
+ .text.entry_critical
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/stm32.o
+ .text.exit_critical
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/stm32.o
+ .bss.nest_entry_critical_counter
+                0x00000000        0x1 build_price_tag_sl_node_application_stm32f10x/stm32.o
+ .debug_info    0x00000000      0x193 build_price_tag_sl_node_application_stm32f10x/stm32.o
+ .debug_abbrev  0x00000000       0xc4 build_price_tag_sl_node_application_stm32f10x/stm32.o
+ .debug_aranges
+                0x00000000       0x38 build_price_tag_sl_node_application_stm32f10x/stm32.o
+ .debug_ranges  0x00000000       0x28 build_price_tag_sl_node_application_stm32f10x/stm32.o
+ .debug_line    0x00000000      0x1d4 build_price_tag_sl_node_application_stm32f10x/stm32.o
+ .debug_str     0x00000000      0x228 build_price_tag_sl_node_application_stm32f10x/stm32.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/stm32.o
+ .debug_frame   0x00000000       0x50 build_price_tag_sl_node_application_stm32f10x/stm32.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/stm32.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/system.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/system.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/system.o
+ .text.sys_ctrl_millis
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/system.o
+ .text.exti_line15_irq
+                0x00000000        0x2 build_price_tag_sl_node_application_stm32f10x/system.o
+ .text.timer6_irq
+                0x00000000        0x2 build_price_tag_sl_node_application_stm32f10x/system.o
+ .text.timer7_irq
+                0x00000000        0x2 build_price_tag_sl_node_application_stm32f10x/system.o
+ .text.timer4_irq
+                0x00000000        0x2 build_price_tag_sl_node_application_stm32f10x/system.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .text.sys_ctrl_shell_get_char
+                0x00000000       0x24 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .text.sys_ctrl_reset
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .text.sys_ctrl_independent_watchdog_reset
+                0x00000000        0x2 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .text.sys_ctrl_soft_watchdog_reset
+                0x00000000        0x2 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .text.sys_ctrl_soft_watchdog_enable
+                0x00000000        0x2 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .text.sys_ctrl_soft_watchdog_disable
+                0x00000000        0x2 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .text.sys_ctrl_soft_watchdog_increase_counter
+                0x00000000        0x2 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .text.sys_ctrl_get_firmware_info
+                0x00000000       0x38 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.button_up_init
+                0x00000000       0x30 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.button_down_inint
+                0x00000000       0x30 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.flash_io_ctrl_init
+                0x00000000       0x30 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.flash_cs_low
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.flash_cs_high
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.flash_transfer
+                0x00000000       0x34 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_uart_RS485_cfg
+                0x00000000       0xc4 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_RS485_dir_pin_output
+                0x00000000       0x30 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_RS485_dir_pin_input
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_uart_RS485_mode_set
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_uart_rs485_transfer
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_uart_RS485_get_byte
+                0x00000000       0x48 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_RS485_relay_pin_output
+                0x00000000       0xb8 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_RS485_relay1_pin_set
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_RS485_dir_pin_set
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_RS485_relay1_pin_reset
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_RS485_dir_pin_reset
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_RS485_relay2_pin_set
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_RS485_relay2_pin_reset
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_RS485_relay3_pin_set
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_RS485_relay3_pin_reset
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_RS485_relay4_pin_set
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_RS485_relay4_pin_reset
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_RS485_relay5_pin_set
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_RS485_relay5_pin_reset
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_adc_start_cfg
+                0x00000000       0x70 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.io_adc_ct_cfg
+                0x00000000       0x28 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.adc_ct_io_read
+                0x00000000       0x30 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.IO_74HC4052_S0_PIN_OUTPUT
+                0x00000000       0x30 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.IO_74HC4052_S1_PIN_OUTPUT
+                0x00000000       0x2c build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.IO_74HC4052_S0_PIN_SET
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.IO_74HC4052_S1_PIN_SET
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.IO_74HC4052_S0_PIN_RESET
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.IO_74HC4052_S1_PIN_RESET
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text.IO_74HC4052_PIN_TO_READ
+                0x00000000       0x34 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .rodata.str1.1
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/app.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/app.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/app.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/app_data.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/app_data.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/app_data.o
+ .data.rf24_encrypt_decrypt_key
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/app_data.o
+ .debug_info    0x00000000       0xa2 build_price_tag_sl_node_application_stm32f10x/app_data.o
+ .debug_abbrev  0x00000000       0x56 build_price_tag_sl_node_application_stm32f10x/app_data.o
+ .debug_aranges
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/app_data.o
+ .debug_line    0x00000000      0x10e build_price_tag_sl_node_application_stm32f10x/app_data.o
+ .debug_str     0x00000000      0x1d1 build_price_tag_sl_node_application_stm32f10x/app_data.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/app_data.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/app_data.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/app_test.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/app_test.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/app_test.o
+ .debug_line    0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/app_test.o
+ .debug_str     0x00000000      0x119 build_price_tag_sl_node_application_stm32f10x/app_test.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/app_test.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/app_test.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/eeprom.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/eeprom.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/eeprom.o
+ .text.eeprom_read
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/eeprom.o
+ .text.eeprom_write
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/eeprom.o
+ .text.eeprom_erase
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/eeprom.o
+ .debug_info    0x00000000      0x12d build_price_tag_sl_node_application_stm32f10x/eeprom.o
+ .debug_abbrev  0x00000000       0xc7 build_price_tag_sl_node_application_stm32f10x/eeprom.o
+ .debug_loc     0x00000000       0x42 build_price_tag_sl_node_application_stm32f10x/eeprom.o
+ .debug_aranges
+                0x00000000       0x28 build_price_tag_sl_node_application_stm32f10x/eeprom.o
+ .debug_ranges  0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/eeprom.o
+ .debug_line    0x00000000      0x136 build_price_tag_sl_node_application_stm32f10x/eeprom.o
+ .debug_str     0x00000000      0x1f2 build_price_tag_sl_node_application_stm32f10x/eeprom.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/eeprom.o
+ .debug_frame   0x00000000       0x40 build_price_tag_sl_node_application_stm32f10x/eeprom.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/eeprom.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/exor.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/exor.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/exor.o
+ .text._Z20exor_encrypt_decryptPhS_mS_m
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/exor.o
+ .debug_info    0x00000000      0x111 build_price_tag_sl_node_application_stm32f10x/exor.o
+ .debug_abbrev  0x00000000       0x90 build_price_tag_sl_node_application_stm32f10x/exor.o
+ .debug_loc     0x00000000       0x1f build_price_tag_sl_node_application_stm32f10x/exor.o
+ .debug_aranges
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/exor.o
+ .debug_ranges  0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/exor.o
+ .debug_line    0x00000000      0x132 build_price_tag_sl_node_application_stm32f10x/exor.o
+ .debug_str     0x00000000      0x218 build_price_tag_sl_node_application_stm32f10x/exor.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/exor.o
+ .debug_frame   0x00000000       0x30 build_price_tag_sl_node_application_stm32f10x/exor.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/exor.o
+ .group         0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .group         0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .group         0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2CC2Ehhhh
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C8set_addrEh
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C11noBacklightEv
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C9backlightEv
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C12getBacklightEv
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C13expanderWriteEh
+                0x00000000        0x2 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C11pulseEnableEh
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C10write4bitsEh
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C4sendEhh
+                0x00000000       0x22 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C5writeEh
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C7commandEh
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C5clearEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C4homeEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C9setCursorEhh
+                0x00000000       0x40 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C9noDisplayEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C7displayEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C8noCursorEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C6cursorEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C7noBlinkEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C5blinkEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C17scrollDisplayLeftEv
+                0x00000000        0xa build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C18scrollDisplayRightEv
+                0x00000000        0xa build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C11leftToRightEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C11rightToLeftEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C10autoscrollEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C12noAutoscrollEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C10createCharEhPh
+                0x00000000       0x2a build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C5beginEv
+                0x00000000       0x98 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C21load_custom_characterEhPh
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C12setBacklightEh
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .text._ZN17LiquidCrystal_I2C8printstrEPKc
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .rodata._ZTV17LiquidCrystal_I2C
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .rodata        0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .debug_info    0x00000000     0x1192 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .debug_abbrev  0x00000000      0x2f2 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .debug_loc     0x00000000      0x787 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .debug_aranges
+                0x00000000      0x110 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .debug_ranges  0x00000000      0x130 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .debug_line    0x00000000      0x51c build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .debug_str     0x00000000      0xaec build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .debug_frame   0x00000000      0x2d8 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+ .group         0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .group         0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .group         0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5958shift595Ev
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal59511pulseEnableEv
+                0x00000000       0x42 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal59510write8bitsEh
+                0x00000000        0x2 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal59510setLED1PinEh
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal59510setLED2PinEh
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5957setEPinEh
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5958setD4PinEh
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5958setD5PinEh
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5958setD6PinEh
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5958setD7PinEh
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal59510write4bitsEh
+                0x00000000       0x2c build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5958setRSPinEh
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5954sendEhh
+                0x00000000       0x2c build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5955writeEh
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5957commandEh
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5955clearEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5954homeEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5959setCursorEhh
+                0x00000000       0x40 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5959noDisplayEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5957displayEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5955beginEhhh
+                0x00000000       0xd4 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5954initEv
+                0x00000000       0x1a build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal595C2Ev
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5958noCursorEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5956cursorEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5957noBlinkEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal5955blinkEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal59517scrollDisplayLeftEv
+                0x00000000        0xa build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal59518scrollDisplayRightEv
+                0x00000000        0xa build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal59511leftToRightEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal59511rightToLeftEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal59510autoscrollEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal59512noAutoscrollEv
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text._ZN16LiquidCrystal59510createCharEhPh
+                0x00000000       0x2a build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .rodata._ZTV16LiquidCrystal595
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .rodata        0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .debug_info    0x00000000     0x1286 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .debug_abbrev  0x00000000      0x334 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .debug_loc     0x00000000      0x6bf build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .debug_aranges
+                0x00000000      0x128 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .debug_ranges  0x00000000      0x178 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .debug_line    0x00000000      0x5b5 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .debug_str     0x00000000      0x96e build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .debug_frame   0x00000000      0x324 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .text._ZN13EnergyMonitor7voltageEjdd
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .text._ZN13EnergyMonitor7currentEjd
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .text._ZN13EnergyMonitor5beginEv
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .text._ZN13EnergyMonitor9voltageTXEdd
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .text._ZN13EnergyMonitor9currentTXEjd
+                0x00000000       0x2c build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .text._ZN13EnergyMonitor6calcVIEjj
+                0x00000000      0x25c build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .text._ZN13EnergyMonitor8calcIrmsEj
+                0x00000000       0xd4 build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .text._ZN13EnergyMonitor11serialprintEv
+                0x00000000       0x40 build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .text._ZN13EnergyMonitor7readVccEv
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .rodata.str1.1
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .debug_info    0x00000000      0x6d4 build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .debug_abbrev  0x00000000      0x225 build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .debug_loc     0x00000000      0x3d5 build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .debug_aranges
+                0x00000000       0x60 build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .debug_ranges  0x00000000       0x50 build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .debug_line    0x00000000      0x447 build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .debug_str     0x00000000      0x527 build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .debug_frame   0x00000000       0xe4 build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF243csnEb
+                0x00000000        0x2 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF242ceEb
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2413read_registerEhPhh
+                0x00000000       0x30 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2413read_registerEh
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2414write_registerEhPKhh
+                0x00000000       0x30 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2414write_registerEhh
+                0x00000000       0x34 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2413write_payloadEPKvhh
+                0x00000000       0x60 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2412read_payloadEPvh
+                0x00000000       0x60 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF248flush_rxEv
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF248flush_txEv
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF248spiTransEh
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2410get_statusEv
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF24C2Ehh
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2410setChannelEh
+                0x00000000        0xe build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2410getChannelEv
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2414setPayloadSizeEh
+                0x00000000        0xa build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2414getPayloadSizeEv
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2413stopListeningEv
+                0x00000000       0x56 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF249powerDownEv
+                0x00000000       0x22 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF247powerUpEv
+                0x00000000       0x2c build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF247reUseTXEv
+                0x00000000       0x24 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2414startFastWriteEPKvhbb
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF245writeEPKvhb
+                0x00000000       0x3c build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF245writeEPKvh
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2413writeBlockingEPKvhm
+                0x00000000       0x54 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF249writeFastEPKvhb
+                0x00000000       0x46 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF249writeFastEPKvh
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2410startWriteEPKvhb
+                0x00000000       0x24 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2410rxFifoFullEv
+                0x00000000        0xe build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF249txStandByEv
+                0x00000000       0x44 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF249txStandByEmb
+                0x00000000       0x6e build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF247maskIRQEbbb
+                0x00000000       0x30 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2421getDynamicPayloadSizeEv
+                0x00000000       0x2c build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF249availableEPh
+                0x00000000       0x28 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF249availableEv
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF244readEPvh
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2412whatHappenedERbS0_S0_
+                0x00000000       0x24 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2415openWritingPipeEy
+                0x00000000       0x2e build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2415openWritingPipeEPKh
+                0x00000000       0x2a build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2415openReadingPipeEhy
+                0x00000000       0x74 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2415setAddressWidthEh
+                0x00000000       0x1e build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2415openReadingPipeEhPKh
+                0x00000000       0x70 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2416closeReadingPipeEh
+                0x00000000       0x2c build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2414startListeningEv
+                0x00000000       0x5e build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2415toggle_featuresEv
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2421enableDynamicPayloadsEv
+                0x00000000       0x48 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2416enableAckPayloadEv
+                0x00000000       0x48 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2416enableDynamicAckEv
+                0x00000000       0x30 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2415writeAckPayloadEhPKvh
+                0x00000000       0x30 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2421isAckPayloadAvailableEv
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2410isPVariantEv
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2410setAutoAckEb
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2410setAutoAckEhb
+                0x00000000       0x32 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF247testRPDEv
+                0x00000000        0xe build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2411testCarrierEv
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2410setPALevelEh
+                0x00000000       0x2e build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2410getPALevelEv
+                0x00000000        0xe build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2411setDataRateE15rf24_datarate_e
+                0x00000000       0x46 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF245beginEv
+                0x00000000       0xa4 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2411getDataRateEv
+                0x00000000       0x1e build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2412setCRCLengthE16rf24_crclength_e
+                0x00000000       0x2a build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2412getCRCLengthEv
+                0x00000000       0x26 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2410disableCRCEv
+                0x00000000       0x1a build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text._ZN4RF2410setRetriesEhh
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .rodata._ZL18child_payload_size
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .rodata._ZL10child_pipe
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .rodata.str1.1
+                0x00000000       0x65 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .rodata._ZL17child_pipe_enable
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .debug_info    0x00000000     0x321c build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .debug_abbrev  0x00000000      0x414 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .debug_loc     0x00000000     0x1c0f build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .debug_aranges
+                0x00000000      0x210 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .debug_ranges  0x00000000      0x218 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .debug_line    0x00000000      0x8d5 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .debug_str     0x00000000     0x107f build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .debug_frame   0x00000000      0x684 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/RF24.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24NetworkC2ER4RF24
+                0x00000000       0x28 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24Network7enqueueEP17RF24NetworkHeader
+                0x00000000      0x20c build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24Network9availableEv
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZNK11RF24Network6parentEv
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24Network4peekER17RF24NetworkHeader
+                0x00000000       0x32 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24Network4readER17RF24NetworkHeaderPvt
+                0x00000000       0xd8 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZNK17RF24NetworkHeader8toStringEv
+                0x00000000       0x28 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24Network15is_direct_childEt
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24Network24logicalToPhysicalAddressEPNS_23logicalToPhysicalStructE
+                0x00000000       0x48 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24Network13is_descendantEt
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24Network13setup_addressEv
+                0x00000000       0x3e build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24Network13addressOfPipeEth
+                0x00000000       0x22 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24Network21direct_child_route_toEt
+                0x00000000        0xe build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24Network16is_valid_addressEt
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._Z14levelToAddressh
+                0x00000000       0x12 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._Z12pipe_addressth
+                0x00000000       0x78 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24Network5beginEht
+                0x00000000       0x94 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24Network13write_to_pipeEthb
+                0x00000000       0x76 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24Network5writeEth
+                0x00000000      0x128 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24Network6updateEv
+                0x00000000      0x180 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24Network6_writeER17RF24NetworkHeaderPKvtt
+                0x00000000       0xa4 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24Network5writeER17RF24NetworkHeaderPKvtt
+                0x00000000      0x17c build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24Network9multicastER17RF24NetworkHeaderPKvth
+                0x00000000       0x24 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24Network5writeER17RF24NetworkHeaderPKvt
+                0x00000000        0xe build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text._ZN11RF24Network14multicastLevelEh
+                0x00000000       0x24 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .bss._ZZNK17RF24NetworkHeader8toStringEvE6buffer
+                0x00000000       0x2d build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .rodata.str1.1
+                0x00000000      0x19d build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .rodata._ZZ12pipe_addressthE19address_translation
+                0x00000000        0x7 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .data._ZN17RF24NetworkHeader7next_idE
+                0x00000000        0x2 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .debug_info    0x00000000     0x28c6 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .debug_abbrev  0x00000000      0x4ec build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .debug_loc     0x00000000     0x10d4 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .debug_aranges
+                0x00000000       0xe0 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .debug_ranges  0x00000000      0x128 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .debug_line    0x00000000      0x73a build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .debug_str     0x00000000     0x1743 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .debug_frame   0x00000000      0x2c8 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/Sync.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/Sync.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/Sync.o
+ .text._ZN4Sync6updateEv
+                0x00000000       0xf8 build_price_tag_sl_node_application_stm32f10x/Sync.o
+ .rodata.str1.1
+                0x00000000       0x4c build_price_tag_sl_node_application_stm32f10x/Sync.o
+ .debug_info    0x00000000      0xb00 build_price_tag_sl_node_application_stm32f10x/Sync.o
+ .debug_abbrev  0x00000000      0x312 build_price_tag_sl_node_application_stm32f10x/Sync.o
+ .debug_loc     0x00000000      0x181 build_price_tag_sl_node_application_stm32f10x/Sync.o
+ .debug_aranges
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/Sync.o
+ .debug_ranges  0x00000000       0x40 build_price_tag_sl_node_application_stm32f10x/Sync.o
+ .debug_line    0x00000000      0x2ec build_price_tag_sl_node_application_stm32f10x/Sync.o
+ .debug_str     0x00000000      0xa5e build_price_tag_sl_node_application_stm32f10x/Sync.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/Sync.o
+ .debug_frame   0x00000000       0x38 build_price_tag_sl_node_application_stm32f10x/Sync.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/Sync.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/SPI.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/SPI.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/SPI.o
+ .text._ZN8SPIClassC2Ev
+                0x00000000        0xa build_price_tag_sl_node_application_stm32f10x/SPI.o
+ .text._ZN8SPIClassC2Eh
+                0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/SPI.o
+ .text._ZN8SPIClass5beginEv
+                0x00000000       0x9c build_price_tag_sl_node_application_stm32f10x/SPI.o
+ .text._ZN8SPIClass3endEv
+                0x00000000        0x2 build_price_tag_sl_node_application_stm32f10x/SPI.o
+ .text._ZN8SPIClass11setBitOrderEhh
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/SPI.o
+ .text._ZN8SPIClass11setBitOrderEh
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/SPI.o
+ .text._ZN8SPIClass11setDataModeEh
+                0x00000000       0x54 build_price_tag_sl_node_application_stm32f10x/SPI.o
+ .text._ZN8SPIClass15setClockDividerEh
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/SPI.o
+ .text._ZN8SPIClass8transferEh
+                0x00000000       0x4c build_price_tag_sl_node_application_stm32f10x/SPI.o
+ .text._ZN8SPIClass9setModuleEh
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/SPI.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/wiring_digital.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/wiring_digital.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/wiring_digital.o
+ .text._Z7pinModehh
+                0x00000000       0x2c build_price_tag_sl_node_application_stm32f10x/wiring_digital.o
+ .text._Z12digitalWritehh
+                0x00000000      0x108 build_price_tag_sl_node_application_stm32f10x/wiring_digital.o
+ .text._Z11digitalReadh
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/wiring_digital.o
+ .rodata.str1.1
+                0x00000000      0x136 build_price_tag_sl_node_application_stm32f10x/wiring_digital.o
+ .debug_info    0x00000000      0x393 build_price_tag_sl_node_application_stm32f10x/wiring_digital.o
+ .debug_abbrev  0x00000000       0xfc build_price_tag_sl_node_application_stm32f10x/wiring_digital.o
+ .debug_loc     0x00000000      0x329 build_price_tag_sl_node_application_stm32f10x/wiring_digital.o
+ .debug_aranges
+                0x00000000       0x30 build_price_tag_sl_node_application_stm32f10x/wiring_digital.o
+ .debug_ranges  0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/wiring_digital.o
+ .debug_line    0x00000000      0x28d build_price_tag_sl_node_application_stm32f10x/wiring_digital.o
+ .debug_str     0x00000000      0x3e4 build_price_tag_sl_node_application_stm32f10x/wiring_digital.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/wiring_digital.o
+ .debug_frame   0x00000000       0xb8 build_price_tag_sl_node_application_stm32f10x/wiring_digital.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/wiring_digital.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/wiring_shift.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/wiring_shift.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/wiring_shift.o
+ .text._Z7shiftInhhh
+                0x00000000       0x48 build_price_tag_sl_node_application_stm32f10x/wiring_shift.o
+ .text._Z8shiftOuthhhh
+                0x00000000       0x46 build_price_tag_sl_node_application_stm32f10x/wiring_shift.o
+ .debug_info    0x00000000      0x24d build_price_tag_sl_node_application_stm32f10x/wiring_shift.o
+ .debug_abbrev  0x00000000      0x10a build_price_tag_sl_node_application_stm32f10x/wiring_shift.o
+ .debug_loc     0x00000000      0x166 build_price_tag_sl_node_application_stm32f10x/wiring_shift.o
+ .debug_aranges
+                0x00000000       0x28 build_price_tag_sl_node_application_stm32f10x/wiring_shift.o
+ .debug_ranges  0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/wiring_shift.o
+ .debug_line    0x00000000      0x1bb build_price_tag_sl_node_application_stm32f10x/wiring_shift.o
+ .debug_str     0x00000000      0x2b3 build_price_tag_sl_node_application_stm32f10x/wiring_shift.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/wiring_shift.o
+ .debug_frame   0x00000000       0x50 build_price_tag_sl_node_application_stm32f10x/wiring_shift.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/wiring_shift.o
+ .group         0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print5writeEPKhj
+                0x00000000       0x22 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print5writeEPKc
+                0x00000000       0x20 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print5printEPKc
+                0x00000000        0x8 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print5printEc
+                0x00000000        0x6 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print5printERK9Printable
+                0x00000000        0xc build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print7printlnEv
+                0x00000000       0x18 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print7printlnEPKc
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print7printlnEc
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print11printNumberEmh
+                0x00000000       0x3e build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print5printEmi
+                0x00000000       0x16 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print5printEhi
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print7printlnEhi
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print5printEji
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print7printlnEji
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print5printEli
+                0x00000000       0x44 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print5printEii
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print7printlnEii
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print7printlnEli
+                0x00000000       0x14 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print10printFloatEdh
+                0x00000000      0x15c build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print5printEdi
+                0x00000000        0xa build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/Print.o
+ .rodata._ZTV5Print
+                0x00000000       0x10 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .rodata.str1.1
+                0x00000000        0xe build_price_tag_sl_node_application_stm32f10x/Print.o
+ .debug_info    0x00000000     0x1353 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .debug_abbrev  0x00000000      0x31b build_price_tag_sl_node_application_stm32f10x/Print.o
+ .debug_loc     0x00000000     0x1108 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .debug_aranges
+                0x00000000       0xd0 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .debug_ranges  0x00000000      0x138 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .debug_line    0x00000000      0x457 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .debug_str     0x00000000      0x540 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/Print.o
+ .debug_frame   0x00000000      0x284 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/Print.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .text._ZN6Stream9timedReadEv
+                0x00000000       0x2a build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .text._ZN6Stream9timedPeekEv
+                0x00000000       0x2a build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .text._ZN6Stream13peekNextDigitE13LookaheadModeb
+                0x00000000       0x54 build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .text._ZN6Stream10setTimeoutEm
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .text._ZN6Stream8parseIntE13LookaheadModec
+                0x00000000       0x62 build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .text._ZN6Stream10parseFloatE13LookaheadModec
+                0x00000000       0xb0 build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .text._ZN6Stream9readBytesEPcj
+                0x00000000       0x2a build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .text._ZN6Stream14readBytesUntilEcPcj
+                0x00000000       0x34 build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .text._ZN6Stream9findMultiEPNS_11MultiTargetEi
+                0x00000000       0xac build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .text._ZN6Stream9findUntilEPcjS0_j.part.0.constprop.1
+                0x00000000       0x1e build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .text._ZN6Stream4findEPcj
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .text._ZN6Stream4findEPc
+                0x00000000       0x1a build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .text._ZN6Stream9findUntilEPcjS0_j
+                0x00000000       0x3c build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .text._ZN6Stream9findUntilEPcS0_
+                0x00000000       0x28 build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .debug_info    0x00000000      0xdd8 build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .debug_abbrev  0x00000000      0x361 build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .debug_loc     0x00000000      0x9e1 build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .debug_aranges
+                0x00000000       0x88 build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .debug_ranges  0x00000000       0xc0 build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .debug_line    0x00000000      0x45b build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .debug_str     0x00000000      0x69f build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .debug_frame   0x00000000      0x1ac build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/Stream.o
+ .text          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .data          0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .bss           0x00000000        0x0 build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .text._ZN9__gnu_cxx27__verbose_terminate_handlerEv
+                0x00000000        0x2 build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .text.__cxa_pure_virtual
+                0x00000000        0x2 build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .text._Znwj    0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .text._Znaj    0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .text._ZdlPv   0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .text._ZdaPv   0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .text._sbrk    0x00000000       0x1c build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .bss._ZZ5_sbrkE4heap
+                0x00000000        0x4 build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .debug_info    0x00000000      0x56c build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .debug_abbrev  0x00000000      0x22c build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .debug_loc     0x00000000       0x6e build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .debug_aranges
+                0x00000000       0x40 build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .debug_ranges  0x00000000       0x30 build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .debug_line    0x00000000      0x2cc build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .debug_str     0x00000000      0x372 build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .comment       0x00000000       0x6f build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .debug_frame   0x00000000       0x80 build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+ .text          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-malloc.o)
+ .text.malloc   0x00000000       0x10 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-malloc.o)
+ .text.free     0x00000000       0x10 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-malloc.o)
+ .debug_frame   0x00000000       0x30 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x558 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+ .data.__malloc_av_
+                0x00000000      0x408 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+ .data.__malloc_trim_threshold
+                0x00000000        0x4 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x00000000        0x4 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_sbrked_mem
+                0x00000000        0x4 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+ .bss.__malloc_top_pad
+                0x00000000        0x4 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+ .bss.__malloc_current_mallinfo
+                0x00000000       0x28 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+ .data.__malloc_sbrk_base
+                0x00000000        0x4 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00000000       0x54 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+ .text          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x9c /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x34 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000        0x4 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0x4 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mlock.o)
+ .debug_frame   0x00000000       0x30 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x24 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen-stub.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen-stub.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen-stub.o)
+ .text.strlen   0x00000000       0x5c /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen-stub.o)
+ .debug_frame   0x00000000       0x20 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen-stub.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen-stub.o)
+ .text          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-freer.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-freer.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-freer.o)
+ .text._malloc_trim_r
+                0x00000000       0x9c /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-freer.o)
+ .text._free_r  0x00000000      0x1d0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-freer.o)
+ .debug_frame   0x00000000       0x74 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-freer.o)
+ .text          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000      0x428 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reent.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1c /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x88 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reent.o)
+ .debug_frame   0x00000000       0x58 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reent.o)
+ COMMON         0x00000000        0x4 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reent.o)
+ .text          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-w_sqrt.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-w_sqrt.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-w_sqrt.o)
+ .text.sqrt     0x00000000       0xb8 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-w_sqrt.o)
+ .rodata.str1.4
+                0x00000000        0x5 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-w_sqrt.o)
+ .debug_frame   0x00000000       0x44 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-w_sqrt.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-w_sqrt.o)
+ .text          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-e_sqrt.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-e_sqrt.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-e_sqrt.o)
+ .text.__ieee754_sqrt
+                0x00000000      0x188 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-e_sqrt.o)
+ .debug_frame   0x00000000       0x30 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-e_sqrt.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-e_sqrt.o)
+ .text          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-s_lib_ver.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-s_lib_ver.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-s_lib_ver.o)
+ .data.__fdlib_version
+                0x00000000        0x1 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-s_lib_ver.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-s_lib_ver.o)
+ .text          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-s_matherr.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-s_matherr.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-s_matherr.o)
+ .text.matherr  0x00000000        0x4 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-s_matherr.o)
+ .debug_frame   0x00000000       0x20 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-s_matherr.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a(lib_a-s_matherr.o)
+ .text          0x00000000      0x370 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000       0x1d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_addsubdf3.o)
+ .text          0x00000000      0x424 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000000       0x1d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_muldivdf3.o)
+ .text          0x00000000      0x110 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000000       0x1d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_cmpdf2.o)
+ .text          0x00000000       0x2c /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_unorddf2.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_unorddf2.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x00000000       0x1d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_unorddf2.o)
+ .text          0x00000000       0x50 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000000       0x1d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_fixdfsi.o)
+ .text          0x00000000       0x40 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x00000000       0x1d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_fixunsdfsi.o)
+ .text          0x00000000       0xa0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_truncdfsf2.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x00000000       0x1d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_truncdfsf2.o)
+ .text          0x00000000      0x21c /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000000       0x1d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_addsubsf3.o)
+ .text          0x00000000      0x2a0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_muldivsf3.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x00000000       0x1d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_muldivsf3.o)
+ .text          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libg.a(lib_a-errno.o)
+ .data          0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libg.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libg.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libg.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libg.a(lib_a-errno.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x0000e000         xr
+SRAM             0x20000000         0x00005000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x00000400                HEAP_SIZE = 0x400
+
+.start_flash    0x08000000        0x0
+                0x08000000                _start_flash = .
+
+.isr_vector     0x08000000       0xec
+ *(.isr_vector)
+ .isr_vector    0x08000000       0xec build_price_tag_sl_node_application_stm32f10x/system.o
+                0x08000000                isr_vector
+                0x080000ec                . = ALIGN (0x4)
+
+.text           0x080000ec      0xcd4
+                0x080000ec                . = ALIGN (0x4)
+ *(.text)
+ *(.text*)
+ .text.xputc    0x080000ec       0x24 build_price_tag_sl_node_application_stm32f10x/xprintf.o
+                0x080000ec                xputc
+ .text.xstream  0x08000110      0x156 build_price_tag_sl_node_application_stm32f10x/xprintf.o
+ *fill*         0x08000266        0x2 
+ .text.xprintf  0x08000268       0x24 build_price_tag_sl_node_application_stm32f10x/xprintf.o
+                0x08000268                xprintf
+ .text.led_init
+                0x0800028c       0x20 build_price_tag_sl_node_application_stm32f10x/led.o
+                0x0800028c                led_init
+ .text.led_on   0x080002ac        0xc build_price_tag_sl_node_application_stm32f10x/led.o
+                0x080002ac                led_on
+ .text.led_off  0x080002b8        0xc build_price_tag_sl_node_application_stm32f10x/led.o
+                0x080002b8                led_off
+ .text.SystemInit
+                0x080002c4       0xf4 build_price_tag_sl_node_application_stm32f10x/system_stm32f10x.o
+                0x080002c4                SystemInit
+ .text.SystemCoreClockUpdate
+                0x080003b8       0x5c build_price_tag_sl_node_application_stm32f10x/system_stm32f10x.o
+                0x080003b8                SystemCoreClockUpdate
+ .text.GPIO_Init
+                0x08000414       0xa4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+                0x08000414                GPIO_Init
+ .text.GPIO_ReadInputDataBit
+                0x080004b8        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+                0x080004b8                GPIO_ReadInputDataBit
+ .text.GPIO_SetBits
+                0x080004c4        0x4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+                0x080004c4                GPIO_SetBits
+ .text.GPIO_ResetBits
+                0x080004c8        0x4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+                0x080004c8                GPIO_ResetBits
+ .text.GPIO_PinRemapConfig
+                0x080004cc       0x60 build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+                0x080004cc                GPIO_PinRemapConfig
+ .text.RCC_HSICmd
+                0x0800052c        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+                0x0800052c                RCC_HSICmd
+ .text.RCC_GetClocksFreq
+                0x08000538       0x88 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+                0x08000538                RCC_GetClocksFreq
+ .text.RCC_APB2PeriphClockCmd
+                0x080005c0       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+                0x080005c0                RCC_APB2PeriphClockCmd
+ .text.RCC_GetFlagStatus
+                0x080005d8       0x28 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+                0x080005d8                RCC_GetFlagStatus
+ .text.USART_Init
+                0x08000600       0xa8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+                0x08000600                USART_Init
+ .text.USART_Cmd
+                0x080006a8       0x18 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+                0x080006a8                USART_Cmd
+ .text.USART_ITConfig
+                0x080006c0       0x30 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+                0x080006c0                USART_ITConfig
+ .text.USART_SendData
+                0x080006f0        0x8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+                0x080006f0                USART_SendData
+ .text.USART_GetFlagStatus
+                0x080006f8        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+                0x080006f8                USART_GetFlagStatus
+ .text.USART_GetITStatus
+                0x08000704       0x40 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+                0x08000704                USART_GetITStatus
+ .text.USART_ClearITPendingBit
+                0x08000744       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+                0x08000744                USART_ClearITPendingBit
+ .text.NVIC_PriorityGroupConfig
+                0x08000754       0x14 build_price_tag_sl_node_application_stm32f10x/misc.o
+                0x08000754                NVIC_PriorityGroupConfig
+ .text.NVIC_Init
+                0x08000768       0x6c build_price_tag_sl_node_application_stm32f10x/misc.o
+                0x08000768                NVIC_Init
+ .text.EXTI_GetITStatus
+                0x080007d4       0x1c build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+                0x080007d4                EXTI_GetITStatus
+ .text.EXTI_ClearITPendingBit
+                0x080007f0        0xc build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+                0x080007f0                EXTI_ClearITPendingBit
+ .text.usage_fault_handler
+                0x080007fc        0x2 build_price_tag_sl_node_application_stm32f10x/system.o
+                0x080007fc                usage_fault_handler
+ .text.uart3_irq
+                0x080007fe        0x2 build_price_tag_sl_node_application_stm32f10x/system.o
+                0x080007fe                uart3_irq
+ .text.shell_handler
+                0x08000800       0x10 build_price_tag_sl_node_application_stm32f10x/system.o
+ .text.systick_handler
+                0x08000810       0x30 build_price_tag_sl_node_application_stm32f10x/system.o
+                0x08000810                systick_handler
+ .text.exti_line1_irq
+                0x08000840       0x16 build_price_tag_sl_node_application_stm32f10x/system.o
+                0x08000840                exti_line1_irq
+ .text.default_handler
+                0x08000856        0x2 build_price_tag_sl_node_application_stm32f10x/system.o
+                0x08000856                svc_handler
+                0x08000856                default_handler
+                0x08000856                dg_monitor_handler
+                0x08000856                pendsv_handler
+ .text.nmi_handler
+                0x08000858        0x2 build_price_tag_sl_node_application_stm32f10x/system.o
+                0x08000858                nmi_handler
+ .text.hard_fault_handler
+                0x0800085a        0x2 build_price_tag_sl_node_application_stm32f10x/system.o
+                0x0800085a                hard_fault_handler
+ .text.mem_manage_handler
+                0x0800085c        0x2 build_price_tag_sl_node_application_stm32f10x/system.o
+                0x0800085c                mem_manage_handler
+ .text.bus_fault_handler
+                0x0800085e        0x2 build_price_tag_sl_node_application_stm32f10x/system.o
+                0x0800085e                bus_fault_handler
+ .text.sys_ctrl_delay
+                0x08000860        0x8 build_price_tag_sl_node_application_stm32f10x/system.o
+                0x08000860                sys_ctrl_delay
+ .text.reset_handler
+                0x08000868       0xd0 build_price_tag_sl_node_application_stm32f10x/system.o
+                0x08000868                reset_handler
+ .text._init    0x08000938        0x2 build_price_tag_sl_node_application_stm32f10x/system.o
+                0x08000938                _init
+ *fill*         0x0800093a        0x2 
+ .text.xputchar
+                0x0800093c       0x1c build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .text.sys_cfg_clock
+                0x08000958       0x1a build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+                0x08000958                sys_cfg_clock
+ *fill*         0x08000972        0x2 
+ .text.sys_cfg_tick
+                0x08000974       0x38 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+                0x08000974                sys_cfg_tick
+ .text.sys_cfg_console
+                0x080009ac       0xcc build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+                0x080009ac                sys_cfg_console
+ .text.sys_cfg_update_info
+                0x08000a78      0x108 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+                0x08000a78                sys_cfg_update_info
+ .text.sys_ctrl_delay_us
+                0x08000b80       0x28 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+                0x08000b80                sys_ctrl_delay_us
+ .text.sys_ctrl_delay_ms
+                0x08000ba8       0x1a build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+                0x08000ba8                sys_ctrl_delay_ms
+ .text.sys_ctrl_independent_watchdog_init
+                0x08000bc2        0x2 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+                0x08000bc2                sys_ctrl_independent_watchdog_init
+ .text.sys_ctrl_soft_watchdog_init
+                0x08000bc4        0x2 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+                0x08000bc4                sys_ctrl_soft_watchdog_init
+ *fill*         0x08000bc6        0x2 
+ .text.led_life_init
+                0x08000bc8       0x30 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+                0x08000bc8                led_life_init
+ .text.led_life_on
+                0x08000bf8        0xc build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+                0x08000bf8                led_life_on
+ .text.led_life_off
+                0x08000c04        0xc build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+                0x08000c04                led_life_off
+ .text.button_mode_init
+                0x08000c10       0x30 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+                0x08000c10                button_mode_init
+ .text.read_button_mode
+                0x08000c40       0x18 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+                0x08000c40                read_button_mode
+ .text.main_app
+                0x08000c58       0x78 build_price_tag_sl_node_application_stm32f10x/app.o
+                0x08000c58                main_app
+ .text.sys_irq_timer_10ms
+                0x08000cd0        0x2 build_price_tag_sl_node_application_stm32f10x/app.o
+                0x08000cd0                sys_irq_timer_10ms
+ *fill*         0x08000cd2        0x2 
+ .text.startup._GLOBAL__sub_I__ZN8SPIClassC2Ev
+                0x08000cd4       0x10 build_price_tag_sl_node_application_stm32f10x/SPI.o
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x08000ce4       0xc7 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+                                 0xc9 (size before relaxing)
+ .rodata.str1.1
+                0x08000dab       0x15 build_price_tag_sl_node_application_stm32f10x/app.o
+ *(.glue_7)
+ .glue_7        0x08000dc0        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08000dc0        0x0 linker stubs
+ *(.init)
+ *(.fini)
+                0x08000dc0                . = ALIGN (0x4)
+                0x08000dc0                _etext = .
+
+.vfp11_veneer   0x08000dc0        0x0
+ .vfp11_veneer  0x08000dc0        0x0 linker stubs
+
+.v4_bx          0x08000dc0        0x0
+ .v4_bx         0x08000dc0        0x0 linker stubs
+
+.iplt           0x08000dc0        0x0
+ .iplt          0x08000dc0        0x0 build_price_tag_sl_node_application_stm32f10x/utils.o
+
+.rel.dyn        0x08000dc0        0x0
+ .rel.iplt      0x08000dc0        0x0 build_price_tag_sl_node_application_stm32f10x/utils.o
+
+.preinit_array  0x08000dc0        0x0
+                0x08000dc0                PROVIDE (__preinit_array_start, .)
+ *(SORT(.preinit_array.*))
+ *(.preinit_array*)
+                0x08000dc0                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x08000dc0        0x4
+                0x08000dc0                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08000dc0        0x4 build_price_tag_sl_node_application_stm32f10x/SPI.o
+                0x08000dc4                PROVIDE (__init_array_end, .)
+
+.fini_array     0x08000dc4        0x0
+                [!provide]                PROVIDE (__fini_array_start, .)
+ *(.fini_array*)
+ *(SORT(.fini_array.*))
+                [!provide]                PROVIDE (__fini_array_end, .)
+
+.end_flash      0x08000dc4        0x0
+                0x08000dc4                _end_flash = .
+
+.start_ram      0x20000000        0x0
+                0x20000000                _start_ram = .
+
+.data           0x20000000       0x28 load address 0x08000dc4
+                0x20000000                _data = .
+                0x08000dc4                _ldata = LOADADDR (.data)
+ *(vtable)
+ *(.data)
+ *(.data*)
+ .data.AHBPrescTable
+                0x20000000       0x10 build_price_tag_sl_node_application_stm32f10x/system_stm32f10x.o
+                0x20000000                AHBPrescTable
+ .data.SystemCoreClock
+                0x20000010        0x4 build_price_tag_sl_node_application_stm32f10x/system_stm32f10x.o
+                0x20000010                SystemCoreClock
+ .data.ADCPrescTable
+                0x20000014        0x4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .data.APBAHBPrescTable
+                0x20000018       0x10 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+                0x20000028                _edata = .
+
+.igot.plt       0x20000028        0x0 load address 0x08000dec
+ .igot.plt      0x20000028        0x0 build_price_tag_sl_node_application_stm32f10x/utils.o
+
+.bss            0x20000028       0x56 load address 0x08000dec
+                0x20000028                _bss = .
+ *(.bss)
+ *(.bss*)
+ .bss.div_counter.6730
+                0x20000028        0x4 build_price_tag_sl_node_application_stm32f10x/system.o
+ .bss.millis_current
+                0x2000002c        0x4 build_price_tag_sl_node_application_stm32f10x/system.o
+ .bss.delay_coeficient
+                0x20000030        0x4 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .bss.led_life  0x20000034       0x1c build_price_tag_sl_node_application_stm32f10x/app.o
+                0x20000034                led_life
+ .bss.SPI       0x20000050        0x2 build_price_tag_sl_node_application_stm32f10x/SPI.o
+                0x20000050                SPI
+ *(COMMON)
+ *fill*         0x20000052        0x2 
+ COMMON         0x20000054        0x4 build_price_tag_sl_node_application_stm32f10x/xprintf.o
+                0x20000054                xfunc_out
+ COMMON         0x20000058       0x26 build_price_tag_sl_node_application_stm32f10x/system.o
+                0x20000058                system_info
+                0x20000078                flag_timeout
+                0x2000007a                GPIO_InitStructure
+                0x2000007e                _ebss = .
+
+.heap           0x2000007e      0x402 load address 0x08000e42
+                0x2000007e                __heap_start__ = .
+                0x2000047e                . = (. + HEAP_SIZE)
+ *fill*         0x2000007e      0x400 
+                0x20000480                . = ALIGN (0x4)
+ *fill*         0x2000047e        0x2 
+                0x20000480                __heap_end__ = .
+
+.end_ram        0x20000480        0x0
+                0x20000480                _end_ram = .
+                0x20005000                _estack = (ORIGIN (SRAM) + LENGTH (SRAM))
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libg.a(*)
+ libgcc.a(*)
+LOAD /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a
+LOAD /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a
+LOAD /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a
+LOAD /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libg.a
+LOAD build_price_tag_sl_node_application_stm32f10x/utils.o
+LOAD build_price_tag_sl_node_application_stm32f10x/xprintf.o
+LOAD build_price_tag_sl_node_application_stm32f10x/cmd_line.o
+LOAD build_price_tag_sl_node_application_stm32f10x/log_queue.o
+LOAD build_price_tag_sl_node_application_stm32f10x/fifo.o
+LOAD build_price_tag_sl_node_application_stm32f10x/ring_buffer.o
+LOAD build_price_tag_sl_node_application_stm32f10x/led.o
+LOAD build_price_tag_sl_node_application_stm32f10x/button.o
+LOAD build_price_tag_sl_node_application_stm32f10x/sensor_digital.o
+LOAD build_price_tag_sl_node_application_stm32f10x/flash.o
+LOAD build_price_tag_sl_node_application_stm32f10x/sys_dbg.o
+LOAD build_price_tag_sl_node_application_stm32f10x/system_stm32f10x.o
+LOAD build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+LOAD build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+LOAD build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+LOAD build_price_tag_sl_node_application_stm32f10x/stm32f10x_spi.o
+LOAD build_price_tag_sl_node_application_stm32f10x/misc.o
+LOAD build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+LOAD build_price_tag_sl_node_application_stm32f10x/stm32f10x_tim.o
+LOAD build_price_tag_sl_node_application_stm32f10x/stm32f10x_adc.o
+LOAD build_price_tag_sl_node_application_stm32f10x/stm32f10x_rtc.o
+LOAD build_price_tag_sl_node_application_stm32f10x/stm32f10x_pwr.o
+LOAD build_price_tag_sl_node_application_stm32f10x/stm32f10x_flash.o
+LOAD build_price_tag_sl_node_application_stm32f10x/stm32f10x_iwdg.o
+LOAD build_price_tag_sl_node_application_stm32f10x/stm32f10x_dac.o
+LOAD build_price_tag_sl_node_application_stm32f10x/stm32f10x_i2c.o
+LOAD build_price_tag_sl_node_application_stm32f10x/stm32.o
+LOAD build_price_tag_sl_node_application_stm32f10x/system.o
+LOAD build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+LOAD build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+LOAD build_price_tag_sl_node_application_stm32f10x/app.o
+LOAD build_price_tag_sl_node_application_stm32f10x/app_data.o
+LOAD build_price_tag_sl_node_application_stm32f10x/app_test.o
+LOAD build_price_tag_sl_node_application_stm32f10x/eeprom.o
+LOAD build_price_tag_sl_node_application_stm32f10x/exor.o
+LOAD build_price_tag_sl_node_application_stm32f10x/LiquidCrystal_I2C.o
+LOAD build_price_tag_sl_node_application_stm32f10x/LiquidCrystal595.o
+LOAD build_price_tag_sl_node_application_stm32f10x/EmonLib.o
+LOAD build_price_tag_sl_node_application_stm32f10x/RF24.o
+LOAD build_price_tag_sl_node_application_stm32f10x/RF24Network.o
+LOAD build_price_tag_sl_node_application_stm32f10x/Sync.o
+LOAD build_price_tag_sl_node_application_stm32f10x/SPI.o
+LOAD build_price_tag_sl_node_application_stm32f10x/wiring_digital.o
+LOAD build_price_tag_sl_node_application_stm32f10x/wiring_shift.o
+LOAD build_price_tag_sl_node_application_stm32f10x/Print.o
+LOAD build_price_tag_sl_node_application_stm32f10x/Stream.o
+LOAD build_price_tag_sl_node_application_stm32f10x/mini_cpp.o
+LOAD /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libc.a
+LOAD /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libm.a
+LOAD /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a
+LOAD /home/phs/Desktop/worksapce/tool/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/lib/armv7-m/libg.a
+OUTPUT(build_price_tag_sl_node_application_stm32f10x/price_tag_sl_node_application.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x6bb4
+ .debug_info    0x00000000      0x4a0 build_price_tag_sl_node_application_stm32f10x/xprintf.o
+ .debug_info    0x000004a0      0x342 build_price_tag_sl_node_application_stm32f10x/led.o
+ .debug_info    0x000007e2      0x4c8 build_price_tag_sl_node_application_stm32f10x/system_stm32f10x.o
+ .debug_info    0x00000caa      0x7f3 build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .debug_info    0x0000149d      0x8db build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .debug_info    0x00001d78      0xacd build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .debug_info    0x00002845      0x55e build_price_tag_sl_node_application_stm32f10x/misc.o
+ .debug_info    0x00002da3      0x345 build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+ .debug_info    0x000030e8      0x6a7 build_price_tag_sl_node_application_stm32f10x/system.o
+ .debug_info    0x0000378f     0x10a4 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .debug_info    0x00004833     0x15ff build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .debug_info    0x00005e32      0x36c build_price_tag_sl_node_application_stm32f10x/app.o
+ .debug_info    0x0000619e      0xa16 build_price_tag_sl_node_application_stm32f10x/SPI.o
+
+.debug_abbrev   0x00000000     0x19c0
+ .debug_abbrev  0x00000000      0x1cd build_price_tag_sl_node_application_stm32f10x/xprintf.o
+ .debug_abbrev  0x000001cd      0x12a build_price_tag_sl_node_application_stm32f10x/led.o
+ .debug_abbrev  0x000002f7      0x170 build_price_tag_sl_node_application_stm32f10x/system_stm32f10x.o
+ .debug_abbrev  0x00000467      0x200 build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .debug_abbrev  0x00000667      0x1e4 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .debug_abbrev  0x0000084b      0x1e6 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .debug_abbrev  0x00000a31      0x158 build_price_tag_sl_node_application_stm32f10x/misc.o
+ .debug_abbrev  0x00000b89      0x1a1 build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+ .debug_abbrev  0x00000d2a      0x29d build_price_tag_sl_node_application_stm32f10x/system.o
+ .debug_abbrev  0x00000fc7      0x37b build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .debug_abbrev  0x00001342      0x289 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .debug_abbrev  0x000015cb      0x14c build_price_tag_sl_node_application_stm32f10x/app.o
+ .debug_abbrev  0x00001717      0x2a9 build_price_tag_sl_node_application_stm32f10x/SPI.o
+
+.debug_loc      0x00000000     0x2092
+ .debug_loc     0x00000000      0x38d build_price_tag_sl_node_application_stm32f10x/xprintf.o
+ .debug_loc     0x0000038d      0x216 build_price_tag_sl_node_application_stm32f10x/led.o
+ .debug_loc     0x000005a3       0x99 build_price_tag_sl_node_application_stm32f10x/system_stm32f10x.o
+ .debug_loc     0x0000063c      0x4ed build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .debug_loc     0x00000b29      0x672 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .debug_loc     0x0000119b      0x751 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .debug_loc     0x000018ec      0x161 build_price_tag_sl_node_application_stm32f10x/misc.o
+ .debug_loc     0x00001a4d      0x188 build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+ .debug_loc     0x00001bd5       0x36 build_price_tag_sl_node_application_stm32f10x/system.o
+ .debug_loc     0x00001c0b      0x14a build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .debug_loc     0x00001d55      0x17e build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .debug_loc     0x00001ed3       0x38 build_price_tag_sl_node_application_stm32f10x/app.o
+ .debug_loc     0x00001f0b      0x187 build_price_tag_sl_node_application_stm32f10x/SPI.o
+
+.debug_aranges  0x00000000      0x6c8
+ .debug_aranges
+                0x00000000       0x50 build_price_tag_sl_node_application_stm32f10x/xprintf.o
+ .debug_aranges
+                0x00000050       0x50 build_price_tag_sl_node_application_stm32f10x/led.o
+ .debug_aranges
+                0x000000a0       0x28 build_price_tag_sl_node_application_stm32f10x/system_stm32f10x.o
+ .debug_aranges
+                0x000000c8       0xa8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .debug_aranges
+                0x00000170      0x118 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .debug_aranges
+                0x00000288      0x100 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .debug_aranges
+                0x00000388       0x40 build_price_tag_sl_node_application_stm32f10x/misc.o
+ .debug_aranges
+                0x000003c8       0x50 build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+ .debug_aranges
+                0x00000418       0x60 build_price_tag_sl_node_application_stm32f10x/system.o
+ .debug_aranges
+                0x00000478       0x78 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .debug_aranges
+                0x000004f0      0x140 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .debug_aranges
+                0x00000630       0x28 build_price_tag_sl_node_application_stm32f10x/app.o
+ .debug_aranges
+                0x00000658       0x70 build_price_tag_sl_node_application_stm32f10x/SPI.o
+
+.debug_ranges   0x00000000      0x628
+ .debug_ranges  0x00000000       0x40 build_price_tag_sl_node_application_stm32f10x/xprintf.o
+ .debug_ranges  0x00000040       0x40 build_price_tag_sl_node_application_stm32f10x/led.o
+ .debug_ranges  0x00000080       0x30 build_price_tag_sl_node_application_stm32f10x/system_stm32f10x.o
+ .debug_ranges  0x000000b0       0x98 build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .debug_ranges  0x00000148      0x108 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .debug_ranges  0x00000250       0xf0 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .debug_ranges  0x00000340       0x30 build_price_tag_sl_node_application_stm32f10x/misc.o
+ .debug_ranges  0x00000370       0x40 build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+ .debug_ranges  0x000003b0       0x50 build_price_tag_sl_node_application_stm32f10x/system.o
+ .debug_ranges  0x00000400       0x80 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .debug_ranges  0x00000480      0x130 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .debug_ranges  0x000005b0       0x18 build_price_tag_sl_node_application_stm32f10x/app.o
+ .debug_ranges  0x000005c8       0x60 build_price_tag_sl_node_application_stm32f10x/SPI.o
+
+.debug_line     0x00000000     0x2e0e
+ .debug_line    0x00000000      0x276 build_price_tag_sl_node_application_stm32f10x/xprintf.o
+ .debug_line    0x00000276      0x1af build_price_tag_sl_node_application_stm32f10x/led.o
+ .debug_line    0x00000425      0x20d build_price_tag_sl_node_application_stm32f10x/system_stm32f10x.o
+ .debug_line    0x00000632      0x41d build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .debug_line    0x00000a4f      0x4f3 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .debug_line    0x00000f42      0x502 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .debug_line    0x00001444      0x2a9 build_price_tag_sl_node_application_stm32f10x/misc.o
+ .debug_line    0x000016ed      0x2ea build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+ .debug_line    0x000019d7      0x3e3 build_price_tag_sl_node_application_stm32f10x/system.o
+ .debug_line    0x00001dba      0x468 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .debug_line    0x00002222      0x5f7 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .debug_line    0x00002819      0x292 build_price_tag_sl_node_application_stm32f10x/app.o
+ .debug_line    0x00002aab      0x363 build_price_tag_sl_node_application_stm32f10x/SPI.o
+
+.debug_str      0x00000000     0x2552
+ .debug_str     0x00000000      0x249 build_price_tag_sl_node_application_stm32f10x/xprintf.o
+                                0x2c6 (size before relaxing)
+ .debug_str     0x00000249       0xc1 build_price_tag_sl_node_application_stm32f10x/led.o
+                                0x253 (size before relaxing)
+ .debug_str     0x0000030a      0x1a9 build_price_tag_sl_node_application_stm32f10x/system_stm32f10x.o
+                                0x363 (size before relaxing)
+ .debug_str     0x000004b3      0x38e build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+                                0x59d (size before relaxing)
+ .debug_str     0x00000841      0x3d8 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+                                0x687 (size before relaxing)
+ .debug_str     0x00000c19      0x47e build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+                                0x73d (size before relaxing)
+ .debug_str     0x00001097      0x1dd build_price_tag_sl_node_application_stm32f10x/misc.o
+                                0x42b (size before relaxing)
+ .debug_str     0x00001274      0x1d6 build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+                                0x3a7 (size before relaxing)
+ .debug_str     0x0000144a      0x253 build_price_tag_sl_node_application_stm32f10x/system.o
+                                0x5f6 (size before relaxing)
+ .debug_str     0x0000169d      0x4ba build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+                                0xc3a (size before relaxing)
+ .debug_str     0x00001b57      0x578 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+                                0xe15 (size before relaxing)
+ .debug_str     0x000020cf      0x148 build_price_tag_sl_node_application_stm32f10x/app.o
+                                0x328 (size before relaxing)
+ .debug_str     0x00002217      0x33b build_price_tag_sl_node_application_stm32f10x/SPI.o
+                                0x7c4 (size before relaxing)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e build_price_tag_sl_node_application_stm32f10x/xprintf.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f build_price_tag_sl_node_application_stm32f10x/led.o
+ .comment       0x0000006e       0x6f build_price_tag_sl_node_application_stm32f10x/system_stm32f10x.o
+ .comment       0x0000006e       0x6f build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .comment       0x0000006e       0x6f build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .comment       0x0000006e       0x6f build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .comment       0x0000006e       0x6f build_price_tag_sl_node_application_stm32f10x/misc.o
+ .comment       0x0000006e       0x6f build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+ .comment       0x0000006e       0x6f build_price_tag_sl_node_application_stm32f10x/system.o
+ .comment       0x0000006e       0x6f build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .comment       0x0000006e       0x6f build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .comment       0x0000006e       0x6f build_price_tag_sl_node_application_stm32f10x/app.o
+ .comment       0x0000006e       0x6f build_price_tag_sl_node_application_stm32f10x/SPI.o
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 build_price_tag_sl_node_application_stm32f10x/xprintf.o
+ .ARM.attributes
+                0x00000033       0x33 build_price_tag_sl_node_application_stm32f10x/led.o
+ .ARM.attributes
+                0x00000066       0x33 build_price_tag_sl_node_application_stm32f10x/system_stm32f10x.o
+ .ARM.attributes
+                0x00000099       0x33 build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .ARM.attributes
+                0x000000cc       0x33 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .ARM.attributes
+                0x000000ff       0x33 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .ARM.attributes
+                0x00000132       0x33 build_price_tag_sl_node_application_stm32f10x/misc.o
+ .ARM.attributes
+                0x00000165       0x33 build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+ .ARM.attributes
+                0x00000198       0x33 build_price_tag_sl_node_application_stm32f10x/system.o
+ .ARM.attributes
+                0x000001cb       0x33 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .ARM.attributes
+                0x000001fe       0x33 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .ARM.attributes
+                0x00000231       0x33 build_price_tag_sl_node_application_stm32f10x/app.o
+ .ARM.attributes
+                0x00000264       0x33 build_price_tag_sl_node_application_stm32f10x/SPI.o
+
+.debug_frame    0x00000000      0xff8
+ .debug_frame   0x00000000      0x110 build_price_tag_sl_node_application_stm32f10x/xprintf.o
+ .debug_frame   0x00000110       0xa8 build_price_tag_sl_node_application_stm32f10x/led.o
+ .debug_frame   0x000001b8       0x3c build_price_tag_sl_node_application_stm32f10x/system_stm32f10x.o
+ .debug_frame   0x000001f4      0x170 build_price_tag_sl_node_application_stm32f10x/stm32f10x_gpio.o
+ .debug_frame   0x00000364      0x220 build_price_tag_sl_node_application_stm32f10x/stm32f10x_rcc.o
+ .debug_frame   0x00000584      0x224 build_price_tag_sl_node_application_stm32f10x/stm32f10x_usart.o
+ .debug_frame   0x000007a8       0x68 build_price_tag_sl_node_application_stm32f10x/misc.o
+ .debug_frame   0x00000810       0x9c build_price_tag_sl_node_application_stm32f10x/stm32f10x_exti.o
+ .debug_frame   0x000008ac      0x15c build_price_tag_sl_node_application_stm32f10x/system.o
+ .debug_frame   0x00000a08      0x178 build_price_tag_sl_node_application_stm32f10x/sys_cfg.o
+ .debug_frame   0x00000b80      0x354 build_price_tag_sl_node_application_stm32f10x/io_cfg.o
+ .debug_frame   0x00000ed4       0x38 build_price_tag_sl_node_application_stm32f10x/app.o
+ .debug_frame   0x00000f0c       0xec build_price_tag_sl_node_application_stm32f10x/SPI.o
